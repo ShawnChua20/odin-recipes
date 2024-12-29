@@ -4,7 +4,7 @@ This is all about the fundamentals of HTML.
 Hopefully I can apply all the learnings from the previous lessons that The Odin Project taught me.
 Thank you!
 
-12-29-24
+# 12-29-24
 Ngayon na lang uli ko naopen ito. Now lang uli ko nareview yung git. I am now, nagrereview ng mga bagay na pwede ko iwork on for my job hopefully maganda work.
 Fingers crossed.
 
